@@ -1,0 +1,48 @@
+<component name="libraryTable">
+  <library name="libs">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/libs/other/javax.servlet.jsp.jstl.jar!/" />
+      <root url="jar://$PROJECT_DIR$/libs/other/jstl-impl.jar!/" />
+      <root url="jar://$PROJECT_DIR$/libs/other/mysql-connector-java-5.1.32-bin.jar!/" />
+      <root url="jar://$PROJECT_DIR$/libs/struts2.3.20/commons-fileupload-1.3.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/libs/struts2.3.20/commons-io-2.2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/libs/struts2.3.20/commons-lang-2.4.jar!/" />
+      <root url="jar://$PROJECT_DIR$/libs/struts2.3.20/commons-lang3-3.2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/libs/struts2.3.20/freemarker-2.3.19.jar!/" />
+      <root url="jar://$PROJECT_DIR$/libs/struts2.3.20/ognl-3.0.6.jar!/" />
+      <root url="jar://$PROJECT_DIR$/libs/struts2.3.20/struts2-core-2.3.20.jar!/" />
+      <root url="jar://$PROJECT_DIR$/libs/struts2.3.20/struts2-spring-plugin-2.3.20.jar!/" />
+      <root url="jar://$PROJECT_DIR$/libs/struts2.3.20/xwork-core-2.3.20.jar!/" />
+      <root url="jar://$PROJECT_DIR$/libs/hibernate3.6/antlr-2.7.6.jar!/" />
+      <root url="jar://$PROJECT_DIR$/libs/hibernate3.6/cglib-2.2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/libs/hibernate3.6/commons-collections-3.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/libs/hibernate3.6/dom4j-1.6.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/libs/hibernate3.6/hibernate3.jar!/" />
+      <root url="jar://$PROJECT_DIR$/libs/hibernate3.6/javassist-3.12.0.GA.jar!/" />
+      <root url="jar://$PROJECT_DIR$/libs/hibernate3.6/jta-1.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/libs/hibernate3.6/slf4j-api-1.6.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/libs/spring3.0.2/com.springsource.com.mchange.v2.c3p0-0.9.1.2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/libs/spring3.0.2/com.springsource.javax.persistence-1.0.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/libs/spring3.0.2/com.springsource.net.sf.cglib-2.2.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/libs/spring3.0.2/com.springsource.org.aopalliance-1.0.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/libs/spring3.0.2/com.springsource.org.apache.commons.logging-1.1.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/libs/spring3.0.2/com.springsource.org.apache.log4j-1.2.15.jar!/" />
+      <root url="jar://$PROJECT_DIR$/libs/spring3.0.2/com.springsource.org.aspectj.weaver-1.6.8.RELEASE.jar!/" />
+      <root url="jar://$PROJECT_DIR$/libs/spring3.0.2/org.springframework.aop-3.0.2.RELEASE.jar!/" />
+      <root url="jar://$PROJECT_DIR$/libs/spring3.0.2/org.springframework.asm-3.0.2.RELEASE.jar!/" />
+      <root url="jar://$PROJECT_DIR$/libs/spring3.0.2/org.springframework.aspects-3.0.2.RELEASE.jar!/" />
+      <root url="jar://$PROJECT_DIR$/libs/spring3.0.2/org.springframework.beans-3.0.2.RELEASE.jar!/" />
+      <root url="jar://$PROJECT_DIR$/libs/spring3.0.2/org.springframework.context-3.0.2.RELEASE.jar!/" />
+      <root url="jar://$PROJECT_DIR$/libs/spring3.0.2/org.springframework.core-3.0.2.RELEASE.jar!/" />
+      <root url="jar://$PROJECT_DIR$/libs/spring3.0.2/org.springframework.expression-3.0.2.RELEASE.jar!/" />
+      <root url="jar://$PROJECT_DIR$/libs/spring3.0.2/org.springframework.jdbc-3.0.2.RELEASE.jar!/" />
+      <root url="jar://$PROJECT_DIR$/libs/spring3.0.2/org.springframework.orm-3.0.2.RELEASE.jar!/" />
+      <root url="jar://$PROJECT_DIR$/libs/spring3.0.2/org.springframework.transaction-3.0.2.RELEASE.jar!/" />
+      <root url="jar://$PROJECT_DIR$/libs/spring3.0.2/org.springframework.web-3.0.2.RELEASE.jar!/" />
+      <root url="jar://$PROJECT_DIR$/libs/slf4j-1.6.1/slf4j-api-1.6.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/libs/slf4j-1.6.1/slf4j-log4j12-1.6.1.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
